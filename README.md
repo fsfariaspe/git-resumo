@@ -14,7 +14,7 @@ Depois que criar o repositório no github, dentro do gerenciador de arquivos vá
    - Obs: Se por acaso você modificar o arquivo depois que já tiver feito o **git add .** terá que repetir o passo 5.
 6. Digita: **git commit -m "Sua mensagem" **+ enter (para empacotar o seu arquivo).
 7. Digita: **git remote add origin https://github.com/endereco-do-github-completo** + enter.
-8. Digita: **git push origin master** + enter (para empurrar o seu arquivo, ou arquivos para dentro do seu repositório remoto no github).
+8. Digita: **git push origin main** + enter (para empurrar o seu arquivo, ou arquivos para dentro do seu repositório remoto no github).
 
 Pode ser que ele ainda te peça pra colocar o login e a senha se for a primeira vez, daí eu aconselho apertar o botão azul para o seu navegador fazer o login e depois que o login for bem sucedido, pode voltar lá no terminal que ele vai terminar de fazer o upload automaticamente, depois disso pode atualizar a página do repositório que o conteúdo vai estar lá.
 
