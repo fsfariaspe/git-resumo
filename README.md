@@ -1,3 +1,5 @@
+## Resumo do Git
+
 Depois que criar o repositório no github, dentro do gerenciador de arquivos vá para dentro da pasta que contem os arquivos que quer enviar para o github, quando chegar lá, clica com o botão direito do mouse dentro da tela, não precisa ser em cima de nenhum arquivo, basta ser no meio da tela mesmo, vai abrir um menu de opções, daí selecione a opção "git bash here", vai abrir um terminal de linha de comando já dentro dessa mesma pasta, daí só é seguir a sequência abaixo:
 
 1. Digita: **git init** + enter (para inicializar o git dentro da pasta).
